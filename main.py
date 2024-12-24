@@ -1,4 +1,4 @@
-a = 12
-b = 12
-c = a + b
-print(c)
+A = 12
+B = 12
+C = A + B
+print(C)
